@@ -1,0 +1,4 @@
+SPHP
+====
+
+Strict PHP
